@@ -1,4 +1,6 @@
-==============
-Initial Commit
-==============
+=============================
+VoidUI Tiramisu - v1.0
+=============================
 - Test OTA
+- Fixup weird audio from speakers
+- Remove non existent files from PinnerService
