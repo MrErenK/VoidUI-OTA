@@ -1,17 +1,28 @@
 =============================
-VoidUI Tiramisu - v2.2
+   VoidUI Tiramisu - Final
 =============================
-- Test OTA
+          Device:
 =============================
-VoidUI Tiramisu - v2.1
+- Address some sepolicy denials
+- Add OTA Updater
+- Decompile and switch to ImsService from MIUI V12.5.15 and fix random IMS crashes
+- Drop build fingerprint overwrites
+- Drop MediaTek PowerHAL, switch to LibPerfMgr
+- Fix Front Camera on GCam for new revision begonia users
+- Fix volte for some users again
+- Kang powerhint.json from Redmi Note 10S, drop useless boosts, adapt to begonia and fix some logspams
+- Remove non existent files from PinnerService
 =============================
-- Test OTA
+          Kernel:
 =============================
-VoidUI Tiramisu - v2.0
+- GPU optimization for better smoothness and performance
+- Rebase the kernel source, fixed potential random reboots and poweroffs
+- Upstream kernel to 4.14.304
 =============================
-- Test OTA (Dont download!)
+          Source:
 =============================
-VoidUI Tiramisu - v1.0
-=============================
-- Test OTA
+- Add per-app volume
+- Drop Launcher3 and switch back to stock pixel launcher
+- Drop Quick Unlock because of security reasons
+- Fix high battery drain and lags of pixel launcher
 =============================
