@@ -1,4 +1,38 @@
 =============================
+   VoidUI Tiramisu - Comeback
+=============================
+          Device:
+=============================
+- Address some more sepolicy denials
+- Apply dexpreopt to PixelLauncher and SettingsIntelligence
+- Declare some HAL versions in fcm to fix little logspam
+- Disable oversharpening pq effetcs
+- Drop a useless power hal which might cause performance and smoothness problems
+- Drop PRIVATE_BUILD_DESC and make it source generated
+- Fix IMS crashes when VoWiFi is enabled for some users
+- Fix HDR videos
+- Fix HDR videos color issues
+- Misc incall volume adjustment changes
+- Misc FM Radio changes
+- Switch to Common MediaKek Vibrator AIDL
+- Use correct cortex cpu variants for better optimization of art code
+=============================
+          Kernel:
+=============================
+- Switch back to AOSP clang
+- Upstream to 4.14.305
+=============================
+          Source:
+=============================
+- Add ignore secure window flag feature
+- Apply better ART code optimizations
+- Fix CTS Profile Match
+- Merge February 2023 Security Patch
+- Misc changes
+- Rework Updater
+- Update GMS repo (Reduced size of the zip and dropped some useless google apps)
+=============================
+=============================
    VoidUI Tiramisu - Final
 =============================
           Device:
