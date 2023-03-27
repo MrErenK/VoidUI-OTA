@@ -4,14 +4,14 @@
 			"maintainer": "EreN",
 			"oem": "Xiaomi",
 			"device": "Redmi Note 8 Pro",
-			"filename": "VoidUI-Tiramisu-begonia-13.0-20230218-0934-COMEBACK.zip",
-			"download": "https://sourceforge.net/projects/erensrom-files/files/roms/a13/VoidUI/VoidUI-Tiramisu-begonia-13.0-20230218-0934-COMEBACK.zip/download",
-			"timestamp": 1676712885,
-			"md5": "35c9d08091acfdaf10e0607e4a02ebe6",
-			"sha256": "d95076931c9f8414149d155720182456c6196fc75186e61029a6346ab098a9e7",
-			"size": 1749457287,
+			"filename": "VoidUI-Tiramisu-begonia-13.0-20230326-1453-COMMUNITY.zip",
+			"download": "https://sourceforge.net/projects/erensrom-files/files/roms/a13/VoidUI/VoidUI-Tiramisu-begonia-13.0-20230326-1453-COMMUNITY.zip/download",
+			"timestamp": 1679842390,
+			"md5": "9cf7a71b048e21b0d1ae04496858e3ba",
+			"sha256": "0515819fd80ea6e1351f89f72a73451d52bae5021f898ab7721ef045e6661cbb",
+			"size": 1983714721,
 			"version": Tiramisu,
-			"buildtype": "Comeback",
+			"buildtype": "UNOFFICIAL - QPR2",
 			"forum": "",
 			"firmware": "",
 			"modem": "",
@@ -19,9 +19,9 @@
 			"recovery": "https://drive.google.com/file/d/1i491MVtCRM1lKFrJKLR7gr4uba67lIHk/view?usp=sharing",
 			"paypal": "",
 			"telegram": "https://t.me/Mr_ErenK",
-			"dt": "https://github.com/MrErenK/android_device_redmi_begonia",
+			"dt": "https://github.com/xiaomi-begonia-dev/android_device_xiaomi_begonia",
 			"common-dt": "",
-			"kernel": ""
+			"kernel": "https://github.com/MrErenK/android_kernel_xiaomi_mt6785"
 		}
 	]
 }

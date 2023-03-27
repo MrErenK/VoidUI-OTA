@@ -1,4 +1,56 @@
 =============================
+ VoidUI Tiramisu - Unofficial
+=============================
+          Device:
+=============================
+- Adapt statusbar padding to QPR2 update
+- Add ANXCamera back
+- Add BesLoudness control to Settings > Sound > Besloudness (Basically boosts speakers volume and quality. Disabled by default)
+- Add blur support (Enable/disable on Settings > System > Developer Settings > Allow Window Level Blur)
+- Address some sepolicy denials
+- Battery backup improvements
+- Convert all overlays into Runtime Resource Overlays (RRO)
+- Correctly copy framework compatibility matrix
+- Disable Bluetooth APCF extended features
+- Disable IMS features for TIM Brazil as they don't work
+- Don't pin camera app in memory
+- Drop 32 bit camera libs
+- Drop useless em_hidl
+- Fix random reboots for some users
+- Fix Telegram camera (Also works on most unofficial clients such as NekoX and OwlGram)
+- Increase 5Ghz network signal tolerance
+- Little workaround to reduce jitter
+- Misc libperfmgr changes
+- Pin home application
+- Reorganize vendor init files (Drop inits related to tracing and useless stuff, drop non-existing/incompatible nodes/services references, drop hardcoded nodes and services)
+- Remove unsupported flag from fstab
+- Switch to RevampedFMRadio and fix it
+- Switch to source APNs config file
+- Update blobs from V12.5.15.0.RGGEUXM
+- Update cpuset from rosemary (Redmi Note 10S)
+- Update MTK audio from A13
+- Update WifiResOverlay from stock
+=============================
+          Kernel:
+=============================
+- Drop lots of logging stuff
+- Switch to neutron clang
+- Upstream to 4.14.309
+=============================
+          Source:
+=============================
+- Add delete button to Screenshots and Screen Recorder
+- Add various system packages to indicator exemptions
+- Disable some debug stuff
+- Fix GMS and other permissions
+- Import latest Crowdin translations
+- Import PE translations & latest changes
+- Improve scrolling caches
+- Little changes
+- Merge AOSP 2023 March Security Patch (QPR2)
+- Rework Cutout Force Full Screen changes, now it's entirely working
+=============================
+=============================
    VoidUI Tiramisu - Comeback
 =============================
           Device:
