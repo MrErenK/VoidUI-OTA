@@ -3,6 +3,36 @@
 =============================
           Device:
 =============================
+- Drop an unneeded NFC package
+- Enable suspend to RAM
+- Improved smoothness
+- Little zram improvement
+- Modify left clock padding on qs panel
+- Set default hotspot name to "Xiaomi Redmi Note 8 Pro"
+- Silence few more logspam
+=============================
+          Kernel:
+=============================
+- Upstream to 4.14.312
+=============================
+          Source:
+=============================
+- Added dynamic volte & vowifi icons
+- Added Optimized Monet Engine customizations support including Theme styles selection, Color Source selection, Accent Colors selection, Accent Background Colors selection,
+Luminance and Chroma values tunings and ability to apply them for Background Tint
+- Added pure black theme back
+- Added support of scheduling always on display 
+- Added UMO turbulence noise and surface ripple to Media Player
+- Disabled battery estimate on statusbar an qs panel
+- Fixed issues with GameSpace Screen Recording option
+- Improved qs expansion animation and smoothness
+- Merged Android 13 2023 April Security Patch (QPR2)
+=============================
+=============================
+ VoidUI Tiramisu - Unofficial
+=============================
+          Device:
+=============================
 - Adapt statusbar padding to QPR2 update
 - Add ANXCamera back
 - Add BesLoudness control to Settings > Sound > Besloudness (Basically boosts speakers volume and quality. Disabled by default)
