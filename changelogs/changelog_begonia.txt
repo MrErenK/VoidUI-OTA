@@ -1,4 +1,13 @@
 =============================
+   VoidUI Tiramisu - Hotfix
+=============================
+         Changelog:
+=============================
+- Added LTE+ switch to settings (Disabled by default)
+- Fixed NFC
+- Removed dynamic volte and vowifi icons as they don't work properly
+=============================
+=============================
  VoidUI Tiramisu - Unofficial
 =============================
           Device:
