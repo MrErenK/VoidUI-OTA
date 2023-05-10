@@ -1,4 +1,21 @@
 =============================
+ VoidUI Tiramisu - Unofficial
+=============================
+          Device:
+=============================
+- Correctly disable sf egl image tracking
+- Little changes for vibration and power
+- Move thermal profiles entry to the bottom
+- Switch back to default APNs file
+=============================
+          Kernel:
+=============================
+- Upstream to 4.14.314
+=============================
+          Source:
+=============================
+- Merge android 2023 May security patch
+=============================
    VoidUI Tiramisu - Hotfix
 =============================
          Changelog:
