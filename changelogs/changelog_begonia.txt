@@ -3,6 +3,27 @@
 =============================
           Device:
 =============================
+- Few prop changes for smoothness
+- Little sepolicy changes
+- Move thermal profiles entry to the bottom
+- Remove some useless doze overlays
+- Switch to new AIDL memtrack HAL
+=============================
+         Kernel:
+=============================
+- Import WireGuard
+- Upstream to 4.14.314
+=============================
+         Source:
+=============================
+- Add lockscreen shortcuts
+- Spoofing changes for some apps & games
+=============================
+=============================
+ VoidUI Tiramisu - Unofficial
+=============================
+          Device:
+=============================
 - Correctly disable sf egl image tracking
 - Little changes for vibration and power
 - Move thermal profiles entry to the bottom
@@ -15,6 +36,7 @@
           Source:
 =============================
 - Merge android 2023 May security patch
+=============================
 =============================
    VoidUI Tiramisu - Hotfix
 =============================
